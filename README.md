@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimposu
 - 👀 I’m interested in Amkor Technology Korea.
 - 🌱 I’m currently learning Semiconductor System Engneering.
-- 💞️ I’m looking for collaborate with Jo seong mo
+- 💞️ I’m looking forward to collaborate with Jo seong mo
 - 📫 How to reach me -> Call me if you can :P
 
 <!---
